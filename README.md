@@ -22,7 +22,7 @@ cahtbot to assist the user with immediate help.
 
 
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+
 
 ## Features
 
