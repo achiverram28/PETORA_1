@@ -135,7 +135,19 @@ an alert box with 5 options.EDIT PROFILE PHOTO,EDIT COVER PHOTO,EDIT NAME,EDIT P
 
 ![App Screenshot](https://github.com/achiverram28/fire-baseapp/blob/master/A11E2AF4-D5D8-4610-8AF0-7855D6FFC2C6_1_105_c.jpeg)
 
+-THE HOME PAGE
+It contains a CHATBOT At the top right corner where the bot answers most of the issues presented by the users\
+THE VETS ,PET CFARE,PET REHAB,PET TRAINING AND PET SHOPS takes in the users' location and dislpays the best possible results.
 
+-THE COMMON DISEASES
+It has DOGS,CATS,HORSES,PIGS,BIRDS AND CREEPY CRAWLER'S related diseases along with symptoms and treatemnet.It has a databasse of arround 700+ diseases 
+with was obtained using web scaring with the help of python.
+
+THESE HAVE BEEN CLEARLY SHOWN IN THE DEMO VIDEO.
+
+We as a team of 1st year students in BTECH stream have prepared the project within a span of 1 and a half month with learning those skill at the spot and implementing it.Worked on it day and night in completing the project.
+
+-THE SOURCE CODE IS UP IN THE CODE SECTION.
 
 
 
