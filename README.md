@@ -143,6 +143,9 @@ THE VETS ,PET CFARE,PET REHAB,PET TRAINING AND PET SHOPS takes in the users' loc
 It has DOGS,CATS,HORSES,PIGS,BIRDS AND CREEPY CRAWLER'S related diseases along with symptoms and treatemnet.It has a databasse of arround 700+ diseases 
 with was obtained using web scaring with the help of python.
 
+![App Screenshot](https://github.com/achiverram28/fire-baseapp/blob/master/IMAGE%202022-04-01%2012:47:37.jpg)
+
+
 THESE HAVE BEEN CLEARLY SHOWN IN THE DEMO VIDEO.
 
 We as a team of 1st year students in BTECH stream have prepared the project within a span of 1 and a half month with learning those skill at the spot and implementing it.Worked on it day and night in completing the project.
